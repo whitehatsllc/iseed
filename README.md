@@ -32,13 +32,13 @@ return [];
 ```
 
 
-1) Add `orangehill/iseed` to your composer file.
+1) Add `whitehatsllc/iseed` to your composer file.
 
 #### Lumen Installation
 The package is specifically used for inverse seed for Lumen.
 
     "require": {
-		"seabdulsamad/iseed": "dev-master"
+		"whitehatsllc/iseed": "dev-master"
 	}
 	
 2) Update Composer from the CLI:

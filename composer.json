@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Orangehill\\Iseed": "src/"
+            "Whitehatsllc\\Iseed": "src/"
         },
         "classmap": [
             "src/Orangehill/Iseed/Exceptions.php"

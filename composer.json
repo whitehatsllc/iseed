@@ -24,12 +24,12 @@
             "Whitehatsllc\\Iseed": "src/"
         },
         "classmap": [
-            "src/Orangehill/Iseed/Exceptions.php"
+            "src/Whitehatsllc/Iseed/Exceptions.php"
         ]
     },
     "autoload-dev": {
         "psr-4": {
-            "Orangehill\\Iseed\\Tests\\": "tests"
+            "Whitehatsllc\\Iseed\\Tests\\": "tests"
         }
     },
     "minimum-stability": "dev"

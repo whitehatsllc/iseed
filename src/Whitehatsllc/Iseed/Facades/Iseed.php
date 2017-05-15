@@ -1,6 +1,6 @@
 <?php
 
-namespace Orangehill\Iseed\Facades;
+namespace Whitehatsllc\Iseed\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

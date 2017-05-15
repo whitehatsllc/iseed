@@ -1,6 +1,6 @@
 <?php
 
-namespace Orangehill\Iseed;
+namespace Whitehatsllc\Iseed;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Facades\Config;
@@ -42,7 +42,7 @@ class Iseed {
 	 * @param  string   $prerunEvent
 	 * @param  string   $postunEvent
 	 * @return bool
-	 * @throws Orangehill\Iseed\TableNotFoundException
+	 * @throws Whitehatsllc\Iseed\TableNotFoundException
 	 */
 	public function generateSeed($table, $database = null, $max = 0, $prerunEvent = null, $postrunEvent = null) {
 		if (!$database) {

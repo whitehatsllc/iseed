@@ -1,6 +1,6 @@
 <?php
 
-namespace Orangehill\Iseed;
+namespace Whitehatsllc\Iseed;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;
@@ -26,7 +26,7 @@ class IseedCommand extends Command
     /**
      * Create a new command instance.
      *
-     * @return \Orangehill\Iseed\IseedCommand
+     * @return \Whitehatsllc\Iseed\IseedCommand
      */
     public function __construct()
     {
